@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Code day game.CSharp.Plugins", "2D Code day game.CSharp.Plugins.csproj", "{85816A9D-AEB1-876A-A506-47876EE7460A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Code day game.CSharp", "2D Code day game.CSharp.csproj", "{AFD92D6E-3657-EF8B-1C18-FF14E0671EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Code day game.CSharp.Editor", "2D Code day game.CSharp.Editor.csproj", "{279EB451-8109-0047-EB65-0BB341F1FCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85816A9D-AEB1-876A-A506-47876EE7460A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85816A9D-AEB1-876A-A506-47876EE7460A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85816A9D-AEB1-876A-A506-47876EE7460A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85816A9D-AEB1-876A-A506-47876EE7460A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD92D6E-3657-EF8B-1C18-FF14E0671EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD92D6E-3657-EF8B-1C18-FF14E0671EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD92D6E-3657-EF8B-1C18-FF14E0671EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD92D6E-3657-EF8B-1C18-FF14E0671EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279EB451-8109-0047-EB65-0BB341F1FCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279EB451-8109-0047-EB65-0BB341F1FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279EB451-8109-0047-EB65-0BB341F1FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279EB451-8109-0047-EB65-0BB341F1FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
